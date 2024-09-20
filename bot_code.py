@@ -20,9 +20,9 @@ if os == "macOS":
 if os == "Linux":
     print("Very nice, but depending on the distro, it can have its ups and downs.")
 
-genre = input("Ok, so, what genres of games do you enjoy? ")
+genrse = input("Ok, so, what genres of games do you enjoy? ")
 
-totalGenre = print(f"Oh, {genres} is/are very nice genre(s)!")
+totalGenres = print(f"Oh, {genres} is/are very nice genre(s)!")
 
 
 print("That's all I can do, for now, if I ever actually get improved, which is somewhat unlikely considering a lot of things, but maybe, against all odds, this could get improved!")
