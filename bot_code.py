@@ -1,4 +1,8 @@
-print("Welcome!")
+import tensorflow as tf
+import numpy as np
+import scipy as sci
+
+print("Welcome! NOTICE: Some dependencies have been placed in the code, but they are currently useless.")
 
 # Where the magic happens
 number = input("What is you favorite number? ")
