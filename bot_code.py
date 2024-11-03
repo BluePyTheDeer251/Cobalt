@@ -4,6 +4,7 @@ from tensorflow import keras
 import numpy as np
 import scipy as sci
 
+hehe = torch.tensor(7, 8)
 print("Welcome! NOTICE: Some dependencies have been placed in the code, but they are currently useless.")
 
 # Where the magic happens
